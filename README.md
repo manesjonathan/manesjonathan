@@ -26,6 +26,13 @@
   - GTA
 - **Animals**
 
-## You can always count on me to help you find and resolve a bug.
+## You can always count on me 
+To help you find and resolve a bug.
+
+### You can also visit my online resume
+[www.jonathan-manes.be](https://www.jonathan-manes.be)
+
+
+## Link to my colleague's Github profile
 
 <<[previous](https://github.com/Hugo-Goorickx) || Jonathan Manes || [next](https://github.com/luffypirateking)>>
