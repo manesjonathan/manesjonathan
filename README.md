@@ -1,3 +1,5 @@
+
+
 # Jonathan Manes
 
 *Good things come to those who wait for.*
@@ -33,14 +35,12 @@
 🌐 [www.jonathan-manes.be](https://www.jonathan-manes.be)
 
 
----
-
 ### 🔥My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manesjonathan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manesjonathan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+  <img src="https://gpvc.arturio.dev/manesjonathan" alt="profile views">  
 
 
 ## Link to my coworker's Github profile
