@@ -15,7 +15,8 @@
 | Pineapple on pizza: | :heavy_check_mark: |
 
 
-## Hoobies
+## Hobbies
+- **Programming**
 - **Movies**
   - Matrix
   - Peter Pan
@@ -25,7 +26,6 @@
   - GTA
 - **Animals**
 
-## You can always count on me to help you resolve a bug.
-
+## You can always count on me to help you find and resolve a bug.
 
 <<[previous](https://github.com/Hugo-Goorickx) || Jonathan Manes || [next](https://github.com/luffypirateking)>>
