@@ -4,7 +4,7 @@
 
 ![Photo de moi](photo.jpg)
 
-#### I am learning web development
+## I am learning web development
 
 | Question            | Answer             |
 |---------------------|--------------------|
@@ -15,7 +15,7 @@
 | Pineapple on pizza: | :heavy_check_mark: |
 
 
-#### Hoobies
+## Hoobies
 - **Movies**
   - Matrix
   - Peter Pan
@@ -25,7 +25,7 @@
   - GTA
 - **Animals**
 
-#### You can always count on me to help you resolve a bug.
+## You can always count on me to help you resolve a bug.
 
 
-<<[previous]() || Jonathan Manes || [next]()>>
+<<[previous](https://github.com/Hugo-Goorickx) || Jonathan Manes || [next](https://github.com/luffypirateking)>>
