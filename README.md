@@ -14,7 +14,7 @@
 | Gender:             | M                  |
 | Favorite color:     | Blue               |
 | Favorite food:      | Pizza              |
-| Pineapple on pizza: | :heavy_check_mark: |
+| Pineapple on pizza: | <ul><li>[x] oui</li></ul> <ul><li>[ ] non</li></ul> |
 
 
 ## Hobbies
