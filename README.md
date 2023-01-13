@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **AI project**
 
-- 👨‍💻 All of my projects are available at [www.jonathan-manes.be](www.jonathan-manes.be)
+- 👨‍💻 All of my projects are available at [www.jonathan-manes.be](https://www.jonathan-manes.be)
 
 - 💬 Ask me about **Java, Android, Spring**
 
 - 📫 How to reach me **manesjona@gmail.com**
 
-- 📄 Know about my experiences [www.jonathan-manes.be/resume.pdf](www.jonathan-manes.be/resume.pdf)
+- 📄 Know about my experiences [www.jonathan-manes.be/resume.pdf](https://www.jonathan-manes.be/resume.pdf)
 
 - ⚡ Fun fact **Vanguard of Athena's Fortune in Sea of Thieves**
 
