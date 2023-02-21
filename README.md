@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manesjona@gmail.com**
 
-- 📄 Know about my experiences [Get my resume](https://www.jonathan-manes.be/jonathan_manes_resume.pdf)
+- 📄 Know about my experiences: [get my resume](https://www.jonathan-manes.be/jonathan_manes_resume.pdf)
 
 - ⚡ Fun fact **Vanguard of Athena's Fortune in Sea of Thieves**
 
