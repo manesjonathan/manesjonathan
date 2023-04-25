@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Java, Android, Spring**
 
-- 📫 How to reach me **manesjona@gmail.com**
+- 📫 How to reach me: **manesjona@gmail.com**
 
 - 📄 Know about my experiences: [get my resume](https://www.jonathan-manes.be/jonathan_manes_resume.pdf)
 
-- ⚡ Fun fact **Vanguard of Athena's Fortune in Sea of Thieves**
+- ⚡ Fun fact: **Vanguard of Athena's Fortune in Sea of Thieves**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
