@@ -32,9 +32,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manesjonathan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manesjonathan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-## Link to my coworker's Github profile
-
-<<[previous](https://github.com/Hugo-Goorickx) || Jonathan Manes || [next](https://github.com/jonathanbajoux)>>
