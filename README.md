@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an OpenAI chatbot assistant**
 
-- 🌱 I’m currently learning at **BeCode.org**
+- 🌱 I’m currently working at **Sparkle**
 
 - 👯 I’m looking to collaborate on **AI project**
 
